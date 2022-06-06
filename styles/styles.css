@@ -349,13 +349,13 @@ address {
 .team-social-list {
   display: flex;
   justify-content: center;
+  margin-bottom: 30px;
 }
 
 .team-social-item {
   width: 44px;
   height: 44px;
   margin-right: 10px;
-  margin-bottom: 30px;
 }
 
 .team-social-link {
